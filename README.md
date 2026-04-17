@@ -1,0 +1,1 @@
+Sharp précompilé pour termux Android arm64
