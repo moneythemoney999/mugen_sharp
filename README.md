@@ -1,1 +1,1 @@
-Sharp précompilé pour termux Android arm64
+Sharp pré-compilé pour termux Android arm64
