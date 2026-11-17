@@ -1,0 +1,1 @@
+cmd_Release/sharp-android-arm64-0.35.5.node := ln -f "Release/obj.target/sharp-android-arm64-0.35.5.node" "Release/sharp-android-arm64-0.35.5.node" 2>/dev/null || (rm -rf "Release/sharp-android-arm64-0.35.5.node" && cp -af "Release/obj.target/sharp-android-arm64-0.35.5.node" "Release/sharp-android-arm64-0.35.5.node")

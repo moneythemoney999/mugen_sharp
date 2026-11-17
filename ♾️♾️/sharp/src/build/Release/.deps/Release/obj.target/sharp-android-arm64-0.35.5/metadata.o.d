@@ -1,0 +1,19 @@
+cmd_Release/obj.target/sharp-android-arm64-0.35.5/metadata.o := aarch64-linux-android-clang++ -o Release/obj.target/sharp-android-arm64-0.35.5/metadata.o ../metadata.cc '-DNODE_GYP_MODULE_NAME=sharp-android-arm64-0.35.5' '-DUSING_UV_SHARED=1' '-DUSING_V8_SHARED=1' '-DV8_DEPRECATION_WARNINGS=1' '-D_GLIBCXX_USE_CXX11_ABI=1' '-D_LARGEFILE_SOURCE' '-D_FILE_OFFSET_BITS=64' '-D__STDC_FORMAT_MACROS' '-DOPENSSL_NO_PINSHARED' '-DOPENSSL_THREADS' '-DG_DISABLE_ASSERT' '-DG_DISABLE_CAST_CHECKS' '-DG_DISABLE_CHECKS' '-DNAPI_VERSION=9' '-DNODE_ADDON_API_DISABLE_DEPRECATED' '-DNODE_API_SWALLOW_UNTHROWABLE_EXCEPTIONS' '-DSHARP_USE_GLOBAL_LIBVIPS' '-D_GLIBCXX_USE_CXX11_ABI=0' '-DBUILDING_NODE_EXTENSION' -I/data/data/com.termux/files/home/.cache/node-gyp/22.14.0/include/node -I/data/data/com.termux/files/home/.cache/node-gyp/22.14.0/src -I/data/data/com.termux/files/home/.cache/node-gyp/22.14.0/deps/openssl/config -I/data/data/com.termux/files/home/.cache/node-gyp/22.14.0/deps/openssl/openssl/include -I/data/data/com.termux/files/home/.cache/node-gyp/22.14.0/deps/uv/include -I/data/data/com.termux/files/home/.cache/node-gyp/22.14.0/deps/zlib -I/data/data/com.termux/files/home/.cache/node-gyp/22.14.0/deps/v8/include -I../../../node-addon-api -I/data/data/com.termux/files/usr/include -I/data/data/com.termux/files/usr/include/webp -I/data/data/com.termux/files/usr/include/librsvg-2.0 -I/data/data/com.termux/files/usr/include/cairo -I/data/data/com.termux/files/usr/include/libxml2 -I/data/data/com.termux/files/usr/include/pango-1.0 -I/data/data/com.termux/files/usr/include/harfbuzz -I/data/data/com.termux/files/usr/include/fribidi -I/data/data/com.termux/files/usr/include/gdk-pixbuf-2.0 -I/data/data/com.termux/files/usr/include/freetype2 -I/data/data/com.termux/files/usr/include/libpng16 -I/data/data/com.termux/files/usr/include/pixman-1 -I/data/data/com.termux/files/usr/include/OpenEXR -I/data/data/com.termux/files/usr/include/Imath -I/data/data/com.termux/files/usr/include/libraw -I/data/data/com.termux/files/usr/include/openjpeg-2.5 -I/data/data/com.termux/files/usr/include/glib-2.0 -I/data/data/com.termux/files/usr/lib/glib-2.0/include  -fPIC -pthread -Wall -Wextra -Wno-unused-parameter -O3 -fno-omit-frame-pointer -fno-rtti -fno-exceptions -fno-strict-aliasing -std=gnu++17 -std=c++17 -fexceptions -Wall -Os -MMD -MF ./Release/.deps/Release/obj.target/sharp-android-arm64-0.35.5/metadata.o.d.raw   -c
+Release/obj.target/sharp-android-arm64-0.35.5/metadata.o: ../metadata.cc \
+  ../../../node-addon-api/napi.h \
+  /data/data/com.termux/files/home/.cache/node-gyp/22.14.0/include/node/node_api.h \
+  /data/data/com.termux/files/home/.cache/node-gyp/22.14.0/include/node/js_native_api.h \
+  /data/data/com.termux/files/home/.cache/node-gyp/22.14.0/include/node/js_native_api_types.h \
+  /data/data/com.termux/files/home/.cache/node-gyp/22.14.0/include/node/node_api_types.h \
+  ../../../node-addon-api/napi-inl.h .././common.h .././metadata.h \
+  ../././common.h
+../metadata.cc:
+../../../node-addon-api/napi.h:
+/data/data/com.termux/files/home/.cache/node-gyp/22.14.0/include/node/node_api.h:
+/data/data/com.termux/files/home/.cache/node-gyp/22.14.0/include/node/js_native_api.h:
+/data/data/com.termux/files/home/.cache/node-gyp/22.14.0/include/node/js_native_api_types.h:
+/data/data/com.termux/files/home/.cache/node-gyp/22.14.0/include/node/node_api_types.h:
+../../../node-addon-api/napi-inl.h:
+.././common.h:
+.././metadata.h:
+../././common.h:
